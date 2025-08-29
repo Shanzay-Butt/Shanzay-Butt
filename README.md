@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi, I'm Shanzay!!!
 
-<!--
-**Shanzay-Butt/Shanzay-Butt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓"BSIT Student 🚀| Tech Explorer💻 | DSA in C++👩‍💻| Learning PYTHON🐍 | Exploring WEB DEVELOPMENT🕸🌐 | MYSQL |Always learning & exploring✨
 
-Here are some ideas to get you started:
+🔧 Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖥 Languages: C++ (DSA), Python, HTML, CSS, SQL  
+- 🗄 Databases: MySQL  
+- 🌐 Web: Front-end (HTML/CSS)  
+- ⚙ Concepts: Data Structures & Algorithms, Problem Solving
+
+🌱 Currently Learning
+
+- Deepening Python skills  
+- Practicing HTML | CSS  
+- Improving problem-solving
+
+✨ "Code, Learn, Repeat."🤓
